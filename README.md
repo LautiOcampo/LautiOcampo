@@ -1,6 +1,6 @@
 Hola! Soy Lautaro, apasionado por el desarrollo de sitios web. Por 4 años he estado desarrollando sitios con Wordpress, actualmente soy Desarrollador Full Stack por lo tanto tambien creo proyectos codeando 
 
-Tecnologias que utilizo:
+<h4>Tecnologias que utilizo:</h4>
   <li>JavaScript</li>
   <li>TypeScript</li>
   <li>React</li>
@@ -12,6 +12,9 @@ Tecnologias que utilizo:
   <li>Express</li>
   <li>PostgreSQL</li>
   <li>Sequelize</li>
+
+<h5>Podemos contactarnos por correo!</h5>
+Corrreo: lautiocampo@hotmail.es
 
 
 <!---
