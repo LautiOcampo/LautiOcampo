@@ -17,7 +17,7 @@ Hola! Soy Lautaro, apasionado por el desarrollo de sitios web. Por 4 años he es
 
 #### Moon Cinema 🌙: 
 [Link al repositorio](https://github.com/gjuancruz/PF)<br>
-[Link al proyecto](https://moon-cinema-app.vercel.app/home)
+<!--- [Link al proyecto](https://moon-cinema-app.vercel.app/home) --->
 
 
 #### Dogs Api 🌙: 
